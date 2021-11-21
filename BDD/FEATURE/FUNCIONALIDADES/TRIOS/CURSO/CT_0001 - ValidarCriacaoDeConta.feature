@@ -5,7 +5,7 @@
 #version: 1.0
 
 
-Funcionalidade: <Cadastro>
+Funcionalidade: <Curso>
 
 User Story
 Eu  <Cecilia> como usuario do site da Trios de Capacitação
